@@ -56,7 +56,7 @@ Also worth noting, an employer accepting a fellow is investing in a potential fu
 We're confident this is a bargain relative to employers hiring traditional tech recruiting shops to find talent. Recruiters that facilitate employment placements are often looking for 20-30K for each individual placement.
 
 Lastly, without adequate compensation, autonomy and mentorship, these premium quality STEM students will continue to opt out of Upstate employment opportunities and work at recognizable, tech companies such as Facebook, Google, Twitter, Splunk, etc.
-<hr />
+
 #Student Feedback
 ###What do potential Hack Upstate Fellows like about the fellowship?
 * They love opportunities with real growth potential. I.e., opportunities where the Fellows could be connected with really early stage companies, with small teams (i.e.,1-3 people) where there might be opportunities for them to become partners / co-founders.
@@ -86,7 +86,7 @@ Answer: early / significant growth potential at the Upstate companies where they
 * A Hack Upstate Fellowship for designers (e.g. 2 developers and 2 designers in a particular Hack Upstate class)
   * There are few existing designer-centric educational pipelines
   * Could be a nice opportunity for talented student designers
-<hr />
+
 #Employer Feedback
 ###What do potential Hack Upstate employers like about the fellowship?
   * Identifying top talent which could lead to full-time employment opportunities
