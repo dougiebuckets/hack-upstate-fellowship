@@ -84,7 +84,7 @@ Answer: early / significant growth potential at the Upstate companies where they
   * “Only good things will come from a hacker house”
   * Perhaps we could rent out houses on campus near Upstate universities over the summer? Hire a chef, etc?
 * A Hack Upstate Fellowship for designers (e.g. 2 developers and 2 designers in a particular Hack Upstate class)
-  * There are few / no existing designer / educational pipelines
+  * There are few existing designer-centric educational pipelines
   * Could be a nice opportunity for talented student designers
 <hr />
 #Employer Feedback
