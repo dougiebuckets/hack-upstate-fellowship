@@ -99,6 +99,7 @@ Answer: early / significant growth potential at the Upstate companies where they
 * Will they be working with people their own age as well?
 * Compensations is not their top priority that goes in to identifying an employer
 * Pulling something off during the holiday season would be really challenging if a Fellow is aligned with a larger company. It would take longer periods of time to get them up to speed on larger projects, and thus they would make less of an impact.
+* Being a contractor might leave them in a bit of a "grey area" in that it might be challenging to get them fully engaged with their employer. I.e., it might lead to a confusing working relationship between the fellow and employer
 
 <b>What ideas and suggestions do potential Hack Upstate Fellows have?</b>
 
