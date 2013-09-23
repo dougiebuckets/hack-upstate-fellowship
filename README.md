@@ -120,14 +120,14 @@ Answer: early / significant growth potential at the Upstate companies where they
   * Reduces costs associated with hiring technical recruiters
 
 <b>What concerns do potential Hack Upstate employers have about the fellowship?</b>
-
+  * On its surface, employers think the program is appealing for UNY employers looking to engage early with top talent before they've been snatched up or "run-off with the herd."
   * Proposed employment costs seem high 
   * What is the value in treating the Fellows as contractors instead of simply putting them on payroll?
   * Will employers have the appropriate workload for a Fellow at the appropriate time?
   * Need to ensure an employer’s standard development approach (i.e. waterfall vs agile) is aligned with the expectations of the Fellow
 
 <b>What ideas and suggestions do potential Hack Upstate employers have?</b>
-
-* Concerning the Hacker House idea, we wouldn’t need to rent it out ourselves, but simply approach making it happen as facilitators
+  * Perhaps the way the fellowship is articulated could set the tone of the employer's project requirements through the creation of a "challenge," rather than specific task(s). This provides more creative license and opportunity for exposure to the fringe of an existing platform/technology/framework--territory much more appealing to the eager ambitions of the fellow, as well as future application(s) and value to the employer (an incentive to bring them back).
+  * Concerning the Hacker House idea, we wouldn’t need to rent it out ourselves, but simply approach making it happen as facilitators
   * If we were to test out the idea of a Hacker House, we need to ensure we’re not liable for anything
-* If the Hacker House in one location proves successful, it’s repeatable. I.e., we could implement it in other Upstate cities
+  * If the Hacker House in one location proves successful, it’s repeatable. I.e., we could implement it in other Upstate cities
